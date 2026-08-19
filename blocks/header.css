@@ -15,9 +15,9 @@
 }
 
 .header__content {
-    max-height: 983px;
-    display: flex;
-    flex-direction: column;
+  max-height: 983px;
+  display: flex;
+  flex-direction: column;
 }
 
 .header__title {
@@ -40,6 +40,5 @@
 }
 
 .header__image {
-  display: flex;
-
+  
 }
