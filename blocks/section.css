@@ -1,14 +1,14 @@
-.section {
+.main {
   padding-top: 200px;
   margin: 0;
 }
 
-.section__content {
+.main__content {
   margin: 0;
   padding-left: 148px;
 }
 
-.section__title {
+.main__title {
   font-size: 54px;
   font-weight: 900;
   line-height: 56px;
@@ -18,14 +18,14 @@
   padding-bottom: 50px;
 }
 
-.section__subtitle {
+.main__subtitle {
     width: 738px;
     font-size: 24px;
     font-weight: 400;
     margin: 0;
 }
 
-.section__author {
+.main__author {
     width: 690px;
     font-size: 24px;
     font-weight: 400;
@@ -37,7 +37,7 @@
 
 }
 
-.section__text {
+.main__text {
     width: 722px;
     font-size: 16px;
     font-weight: 400;

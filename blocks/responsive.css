@@ -20,11 +20,11 @@
     font-size: 1.8rem;
   }
 
-  .section{
+  .main {
     padding-top: 100px;
   }
 
-  .section__content {
+  .main__content {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -33,20 +33,20 @@
 
   }
 
-  .section__title {
+  .main__title {
     width: 100%;
     font-size: 2.8rem;
   }
 
-  .section__subtitle {
+  .main__subtitle {
     width: 100%;
   }
 
-  .section__author {
+  .main__author {
     width: 97%;
   }
 
-  .section__text {
+  .main__text {
     width: 97%;
   }
 
@@ -75,11 +75,11 @@
     line-height: 1.5rem;
   }
 
-  .section{
+  .main{
     padding-top: 50px;
   }
 
-  .section__content {
+  .main__content {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -88,7 +88,7 @@
 
   }
 
-  .section__title {
+  .main__title {
     font-size: 2rem;
     line-height: 2rem;
   }
