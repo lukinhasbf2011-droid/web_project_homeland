@@ -1,0 +1,48 @@
+.section {
+  padding-top: 200px;
+  margin: 0;
+}
+
+.section__content {
+  margin: 0;
+  padding-left: 148px;
+}
+
+.section__title {
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 56px;
+  margin: 0;
+  word-spacing: -1px;
+  letter-spacing: -3px;
+  padding-bottom: 50px;
+}
+
+.section__subtitle {
+    width: 738px;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.section__author {
+    width: 690px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: right;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+
+.section__text {
+    width: 722px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 163%;
+    letter-spacing: 0.5px;
+    margin: 0;
+}
+
