@@ -1,11 +1,13 @@
 .page {
     color: white;
     background-color: rgba(0, 0, 0, 0.8);
-    width: 1280px;
-    height: 1883px;
+    max-width: 1280px;
     margin: 0 auto;
     padding: 34px 0px 34px 0px;
     font-family: "inter", sans-serif;
     font-weight: normal;
 
 }
+
+
+
