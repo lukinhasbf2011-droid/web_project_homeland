@@ -53,7 +53,7 @@
     word-wrap: break-word;
     width: 100%;
     font-size: 75px;
-    line-height: 4.8rem;
+    line-height: 75px;
   }
 
   .header__subtitle {
@@ -73,13 +73,13 @@
     word-wrap: break-word;
     width: 100%;
     font-size: 40px;
-    line-height: 2.5rem;
+    line-height: 50px;
   }
 
   .header__subtitle {
     width: 100%;
     font-size: 16px;
-    line-height: 1.5rem;
+    line-height: 20px;
   }
 
 }
