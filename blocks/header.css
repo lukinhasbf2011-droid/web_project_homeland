@@ -40,6 +40,8 @@
 
 .header__image {
 
+  box-shadow: rgba(0, 0, 0, 0.2) 0 20px 12px;
+
 }
 
 @media screen and (max-width: 1024px) {
