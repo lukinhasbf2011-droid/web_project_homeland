@@ -1,14 +1,19 @@
-.footer {
+
+.footer__copyright-text {
+  margin: 92px auto 0 auto;
+  text-align: center;
 
 }
 
-.footer__copyright {
-  margin-top: 92px;
-  text-align: center;
+@media screen and (max-width: 1024px) {
+  .footer__copyright-text {
+    margin-top: 0;
+  }
+
 }
 
 @media screen and (max-width: 544px) {
-  .footer__copyright {
+  .footer__copyright-text {
     margin-top: 0;
   }
 }
