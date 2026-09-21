@@ -1,6 +1,5 @@
 .gallery {
-  margin-top: 118px;
-  margin-bottom: 92px;
+  margin: 118px 48px 92px 48px;
 }
 
 .gallery__image {
@@ -8,7 +7,6 @@
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-gap: 16px;
-  margin: 0 auto;
   max-width: 1184px;
 }
 
@@ -20,17 +18,23 @@
 
 @media screen and (max-width: 1024px) {
   .gallery {
-    margin-bottom: 0;
+    margin: 0 24px 0 24px;
   }
   .gallery__image {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(4, 1fr);
+
   }
 }
 
 @media screen and (max-width: 544px) {
+  .gallery {
+    margin: 0 16px 0 16px;
+  }
+
   .gallery__image {
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(8, 1fr);
+    margin: 0 16px 0 16px;
   }
 }
